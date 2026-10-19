@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="document data"
+    id="id-b3409ff11eda46d2be318e9db2a6595a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ac3c62d4768d472fa645a55f0c100d0a.xml#id-ac3c62d4768d472fa645a55f0c100d0a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8c4da595528044bca15deb3ba3586680.xml#id-8c4da595528044bca15deb3ba3586680"/>
+</archimate:FlowRelationship>
