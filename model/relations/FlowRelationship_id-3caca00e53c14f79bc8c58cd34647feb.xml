@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Call Center"
+    id="id-3caca00e53c14f79bc8c58cd34647feb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-db15c3c204c94ef3b9957a177f1ad3dc.xml#id-db15c3c204c94ef3b9957a177f1ad3dc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c4e112fcdbcd4dc695dc532ecd466f7a.xml#id-c4e112fcdbcd4dc695dc532ecd466f7a"/>
+</archimate:FlowRelationship>
