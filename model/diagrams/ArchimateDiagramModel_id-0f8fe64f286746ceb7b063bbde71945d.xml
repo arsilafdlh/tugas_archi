@@ -4,15 +4,62 @@
     name="04 - Application Architecture Baseline"
     id="id-0f8fe64f286746ceb7b063bbde71945d">
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ec8ad0f28a764a8ca4edf3ca456bba14">
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-4c82f564c0fd4600aac4ba7d275e6c8e"
+      name="Front Office"
+      textAlignment="1">
     <bounds
-        x="338"
-        y="218"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-5d774683886d4e639b98a6e86d829eaf.xml#id-5d774683886d4e639b98a6e86d829eaf"/>
+        x="12"
+        y="36"
+        width="400"
+        height="252"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3732d7d3bfe144efa77a1b2d2d9abdd6">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-db15c3c204c94ef3b9957a177f1ad3dc.xml#id-db15c3c204c94ef3b9957a177f1ad3dc"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b749b783eaa540e8ac155bffafe57392">
+      <bounds
+          x="216"
+          y="114"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-961b1bebe73a410d8fcc2c1cda22165b.xml#id-961b1bebe73a410d8fcc2c1cda22165b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a32464ce7ac340a29ca922de09a5f188">
+      <bounds
+          x="240"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-fe62ef4109e74b0791e25bcda40b276c.xml#id-fe62ef4109e74b0791e25bcda40b276c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3a08951bce834e6e917c9ba1e1681703">
+      <bounds
+          x="24"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-c4e112fcdbcd4dc695dc532ecd466f7a.xml#id-c4e112fcdbcd4dc695dc532ecd466f7a"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
